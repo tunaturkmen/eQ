@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614598159073",
+    "firebase_url": "https://eqapp-acddf.firebaseio.com",
+    "project_id": "eqapp-acddf",
+    "storage_bucket": "eqapp-acddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614598159073:android:0c719a51ae6dcd74e725a0",
+        "android_client_info": {
+          "package_name": "com.example.eq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614598159073-d1jat963tupt3gro329dk5cebbost1je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBUF3wZaSIAk6_yhIk-YJxjza3nwOOeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614598159073-d1jat963tupt3gro329dk5cebbost1je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
